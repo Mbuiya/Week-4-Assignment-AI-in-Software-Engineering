@@ -1,4 +1,4 @@
-# Week-4-Assignment-AI-in-Software-Engineering 
+AI FUTURE DIRECTIONS
 
 This assignment evaluates your understanding of emerging AI trends, their technical implementations, and ethical implications. Through theoretical analysis, hands-on projects, and critical reflection, you will explore Edge AI, AI-IoT integration, Human-AI collaboration, Quantum AI, Personalized Medicine, and Ethical Challenges.
 
